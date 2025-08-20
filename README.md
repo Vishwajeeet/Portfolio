@@ -61,7 +61,7 @@ npm run build
 
 ## 🌐 Live Preview
 
-[Visit Live Portfolio](https://portfolio-indol-seven-75.vercel.app/)
+[Visit Live Portfolio](https://portfolio-eta-roan-25.vercel.app/)
 
 ## ✨ Author
 
