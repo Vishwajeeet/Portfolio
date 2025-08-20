@@ -44,7 +44,7 @@ portfolio-react/
 
 # 1. Clone the repository
 
-git clone https://github.com/Amarsah15/Portfolio.git
+git clone https://github.com/Vishwajeeet/Portfolio.git
 cd portfolio
 
 # 2. Install dependencies
